@@ -1,0 +1,6 @@
+.vscode/
+myenv/
+tags/
+db.sqlite3
+static/
+*.pyc
